@@ -64,6 +64,6 @@
 *	Script file is located in analysis folder
 *	Dataset file is located in Resources folder
 
-*	I utilized Chatgpt to help me right the scripts for both projects.
+*	I utilized Chatgpt to help me write the scripts for both projects.  I broke down the asks into individual tasks and confirmed each task worked before moving on.  After getting all tasks to calculate and out put correctly, I combined the them to complete all  tasks in one script.
 *	while writing the scripts, because both scripts were named "main.py", while working within subline text, at one time I saved the wrong "main.PV over the top of the other main.py.  In order to avoid possible error, it would seem important to not use the same file name for script.  Therefore, I named one of my script files main1.py. 
 
